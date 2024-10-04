@@ -1,0 +1,10 @@
+# API keys
+.env
+
+# Dependency directories
+benoit_crowdsourced_2016/benoit_crowdsourced_2016-econ_policy_stance.csv
+benoit_crowdsourced_2016/benoit_crowdsourced_2016-policy_area.csv
+
+# Model files
+llm_zeroshot_classification_openai.ipynb
+llm_fewshot_classification_openai.ipynb
